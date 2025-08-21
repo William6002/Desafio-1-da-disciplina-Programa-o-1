@@ -9,6 +9,7 @@
         juca += 3;
         anos++;
     }
-    printf("juca sera maior que chico em %d anos\n", anos);
+    printf("Juca sera maior que Chico em %d anos\n", anos);
     system("PAUSE");
+
  }
